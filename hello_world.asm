@@ -6,7 +6,7 @@ msg_len equ $ - msg
 section .text
 global start_
 
-start:
+start_:
 
   mov rax, 1
   mov rdi, 1 
