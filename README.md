@@ -1,6 +1,6 @@
 # Simple Hello World x86
 
-Just print hello world in assembly x86
+Just print Hello World in assembly x86
 
 ## Requirements
 
